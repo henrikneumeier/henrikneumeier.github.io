@@ -2,12 +2,12 @@ name: Scrape Talk Locations
 
 on: [] #added to diable this workflow
 
-on:
-  push:
-    paths:
-      - 'talks/**'
-      - '_talks/**'
-      - 'talkmap.ipynb'
+#on:
+#  push:
+#    paths:
+#      - 'talks/**'
+#      - '_talks/**'
+#      - 'talkmap.ipynb'
 
 jobs:
   build:
