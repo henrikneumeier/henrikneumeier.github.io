@@ -1,5 +1,5 @@
 ---
-title: "Organisation"
+title: "Organization"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2020-organisation
