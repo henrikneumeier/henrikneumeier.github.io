@@ -38,7 +38,7 @@ author:
   googlescholar    : #"tbd"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0009-4579-2463"
+  orcid            : #"https://orcid.org/0009-0009-4579-2463"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #"tbd"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "henrikneumeier"
+  github           : #"henrikneumeier"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "neumeier-henrik" # Username
+  linkedin         : #"neumeier-henrik" 
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
