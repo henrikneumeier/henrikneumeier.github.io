@@ -15,18 +15,24 @@ author_profile: true
   My research lies at the intersection of environmental economics, innovation economics, and energy policy. I study how market structure, competition, and technological linkages shape the pace and direction of electrification and decarbonization. A central focus of my work is understanding how imperfect competition interacts with directed technical change — and what this means for the design of effective climate and innovation policy.
 </p>
 
-<h2>Work in Progress</h2>
+<h2 style="border-bottom: 1px solid #ccc; padding-bottom: 0.3em;">Work in Progress</h2>
 
+<div style="font-size: 0.9em;">
 {% for post in site.publications reversed %}
   {% if post.status == "wip" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+</div>
 
-<h2>Publications</h2>
-
+{% assign published = site.publications | where_exp: "post", "post.status != 'wip'" %}
+{% if published.size > 0 %}
+<h2 style="border-bottom: 1px solid #ccc; padding-bottom: 0.3em;">Publications</h2>
+<div style="font-size: 0.9em;">
 {% for post in site.publications reversed %}
   {% if post.status != "wip" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+</div>
+{% endif %}
