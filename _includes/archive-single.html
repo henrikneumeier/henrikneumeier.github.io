@@ -39,10 +39,7 @@
     {% endif %}
 
     {% if post.collection == 'teaching' %}
-      <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-      {% if post.supervisor %}
-        <p>with {{ post.supervisor }}</p>
-      {% endif %}
+      <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% if post.supervisor %}<br>with {{ post.supervisor }}{% endif %}</p>
     
     {% elsif post.collection == 'publications' %}
       {% if post.status != "wip" %}
