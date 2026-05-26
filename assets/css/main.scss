@@ -42,10 +42,3 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Fix publication abstract readability */
-/* Better abstract visibility in dark mode */
-html[data-theme="dark"] .archive__item-excerpt,
-html[data-theme="dark"] .publication-abstract,
-html[data-theme="dark"] p.archive__item-excerpt {
-    #f0f0f0 !important;
-}
