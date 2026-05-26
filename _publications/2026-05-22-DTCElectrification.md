@@ -1,4 +1,3 @@
-
 ---
 title: "Market Structure, Directed Innovation, and the Electrification Transition "
 collection: publications
