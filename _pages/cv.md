@@ -9,38 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Current Position
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**PhD Student at ZEW – Leibniz Centre for European Economic Research** *(since Apr. 2024)*
+Department: Environmental and Climate Economics
+Supervisor: Prof. Dr. Sebastian Rausch
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
+
+**Julius-Maximilians University Würzburg, Germany** *(Oct. 2021 – Mar. 2024)*
+International Economic Policy (M.Sc.) — Grade: 1.0
+
+**Università degli Studi di Verona, Italy** *(Oct. 2021 – Mar. 2024)*
+Economics and Data Analysis (M.Sc.) — Grade: 1.0
+
+**Julius-Maximilians University Würzburg, Germany** *(Oct. 2017 – Apr. 2021)*
+Business Administration and Economics (B.Sc.) — Grade: 1.6
+
+**Umeå University, Sweden** *(Sep. 2019 – Jun. 2020)*
+Exchange year at Umeå School of Business, Economics and Statistics (B.Sc.)
+
+---
+
+## Projects
+
+**ENTICE**, *Horizon Europe* *(since Jan. 2025)*
+Enhancing our understanding of Trade Impacts on Climate, Industries, and the Environment
+
+---
+
+## Skills
+
+Python, LaTex, GAMS, R
+
+---
+
+## Service to the Profession
+
+**Organization**
+Mannheim Conference on Energy and the Environment (MCEE) — *2025, 2026*
+
+---
+
+## Awards and Scholarships
+
+**Top of the Class Graduate**, Faculty of Economics at the JMU of Würzburg *(Apr. 2024)*
+Graduated top of the class in the Master of International Economic Policy
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -59,6 +77,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
