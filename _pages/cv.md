@@ -11,6 +11,10 @@ redirect_from:
 
 ---
 
+You can download a PDF version of my CV [here](/files/cv.pdf).
+
+---
+
 ## Current Position
 
 **PhD Student at ZEW – Leibniz Centre for European Economic Research** *(since Apr. 2024)* <br>
