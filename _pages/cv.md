@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-You can download a PDF version of my CV <a href="/files/cv.pdf" target="_blank">here</a>.
+You can download a PDF version of my CV <a href="https://henrikneumeier.github.io/files/cv.pdf" target="_blank">here</a>.
 
 ---
 
