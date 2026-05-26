@@ -1,3 +1,10 @@
+<style>
+  /* Forces all text inside publication abstracts/excerpts to be dark grey/black */
+  .archive__item-excerpt, .archive__item-excerpt p, .page__content p {
+    color: #222222 !important; /* A sharp, readable dark grey */
+  }
+</style>
+
 ---
 title: "Market Structure, Directed Innovation, and the Electrification Transition "
 collection: publications
