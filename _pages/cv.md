@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+---
 
 ## Current Position
 
@@ -35,7 +37,7 @@ Exchange year at Umeå School of Business, Economics and Statistics (B.Sc.)
 
 ## Publications
 
-See my [Publications](/publications/) page.
+See my [Research](/publications/) page.
 
 ---
 
