@@ -43,8 +43,9 @@
 ;
 
 /* Fix publication abstract readability */
-.archive__item-excerpt,
-.publication-abstract,
-p.archive__item-excerpt {
-    color: #111 !important;
+/* Better abstract visibility in dark mode */
+html[data-theme="dark"] .archive__item-excerpt,
+html[data-theme="dark"] .publication-abstract,
+html[data-theme="dark"] p.archive__item-excerpt {
+    color: #d6d6d6 !important;
 }
