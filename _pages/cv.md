@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-You can download a PDF version of my CV [here](/files/cv.pdf).
+You can download a PDF version of my CV <a href="/files/cv.pdf" target="_blank">here</a>.
 
 ---
 
